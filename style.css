@@ -1,0 +1,41 @@
+body {
+	background: #AECCCC;
+	text-align: center;
+	font-family: 'Raleway', sans-serif;
+	font-family: 'PT Serif', serif;
+	padding-right: 140px;
+	padding-left: 140px;
+}
+
+h1 {
+	color: red;
+}
+
+h2 {
+	font-weight: lighter;
+}
+
+img {
+	margin-top: 60px 100px 50px 100px
+	
+}
+
+.bio {
+	font-size: 15px;
+}
+
+.image1 {
+	width:220px;
+}
+
+.network {
+	text-decoration: none;
+}
+
+.network:hover{
+	color:black;
+	font-size:23px;
+	text-decoration: none;
+}
+
+
